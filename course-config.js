@@ -25,13 +25,13 @@ window.COURSE_CONFIG = {
 
 window.COURSE_VIDEOS = {
   // Part 0 · Course Overview
-  "part0": "https://youtu.be/xEHv_Cz6RyA",        // Part 0 overview page
+  "part0": "",        // Part 0 overview page
   "part0-a": "",      // The course at a glance
   "part0-b": "",      // The ten topics
   "part0-c": "",      // How to use this workbook
 
   // Part 1 · Concepts and Architecture of Cloud Computing
-  "part1": "",        // Part 1 overview page (learning outcomes + introduction)
+  "part1": "https://youtu.be/xEHv_Cz6RyA",        // Part 1 overview page (learning outcomes + introduction)
   "part1-a": "",      // 1.1 Key Cloud Computing Definitions
   "part1-b": "",      // 1.2 Roles and Responsibilities in Cloud Computing
   "part1-c": "",      // 1.3 Core Cloud Computing Characteristics

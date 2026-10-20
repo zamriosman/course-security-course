@@ -33,13 +33,13 @@ window.COURSE_VIDEOS = {
   // Part 1 · Concepts and Architecture of Cloud Computing
   "part1": "https://youtu.be/xEHv_Cz6RyA",        // Part 1 overview page (learning outcomes + introduction)
   "part1-a": "https://youtu.be/Z2lSd3NhrIQ",      // 1.1 Key Cloud Computing Definitions
-  "part1-b": "",      // 1.2 Roles and Responsibilities in Cloud Computing
-  "part1-c": "",      // 1.3 Core Cloud Computing Characteristics
-  "part1-d": "",      // 1.4 Cloud Building Block Technologies
-  "part1-e": "",      // 1.5 Categories of Cloud Services
-  "part1-f": "",      // 1.6 Cloud Deployment Models
-  "part1-g": "",      // 1.7 Shared Considerations for the Cloud
-  "part1-h": "",      // 1.8 Impact of Cloud and Related Technologies
+  "part1-b": "https://youtu.be/kJ8Zx8gwW6M",      // 1.2 Roles and Responsibilities in Cloud Computing
+  "part1-c": "https://youtu.be/RKnMVc4Zq70",      // 1.3 Core Cloud Computing Characteristics
+  "part1-d": "https://youtu.be/RKnMVc4Zq70",      // 1.4 Cloud Building Block Technologies
+  "part1-e": "https://youtu.be/ZB4LjIqXCKc",      // 1.5 Categories of Cloud Services
+  "part1-f": "https://youtu.be/vmevD4ORm8w",      // 1.6 Cloud Deployment Models
+  "part1-g": "https://youtu.be/4JA6-T6jlh8",      // 1.7 Shared Considerations for the Cloud
+  "part1-h": "https://youtu.be/hgISzoBfRk4",      // 1.8 Impact of Cloud and Related Technologies
   "part1-i": "",      // Topic 1 Summary and Key Terms
 
   // Part 2 · Cloud Security Concepts and Design Principles

@@ -32,7 +32,7 @@ window.COURSE_VIDEOS = {
 
   // Part 1 · Concepts and Architecture of Cloud Computing
   "part1": "https://youtu.be/xEHv_Cz6RyA",        // Part 1 overview page (learning outcomes + introduction)
-  "part1-a": "",      // 1.1 Key Cloud Computing Definitions
+  "part1-a": "https://youtu.be/Z2lSd3NhrIQ",      // 1.1 Key Cloud Computing Definitions
   "part1-b": "",      // 1.2 Roles and Responsibilities in Cloud Computing
   "part1-c": "",      // 1.3 Core Cloud Computing Characteristics
   "part1-d": "",      // 1.4 Cloud Building Block Technologies

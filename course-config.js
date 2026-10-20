@@ -25,7 +25,7 @@ window.COURSE_CONFIG = {
 
 window.COURSE_VIDEOS = {
   // Part 0 · Course Overview
-  "part0": "https://youtu.be/rUB2WX57c3g",        // Part 0 overview page
+  "part0": "https://youtu.be/xEHv_Cz6RyA",        // Part 0 overview page
   "part0-a": "",      // The course at a glance
   "part0-b": "",      // The ten topics
   "part0-c": "",      // How to use this workbook
